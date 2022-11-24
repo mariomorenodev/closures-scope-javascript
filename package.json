@@ -1,0 +1,20 @@
+{
+  "name": "closures-scope-javascript",
+  "version": "1.0.0",
+  "description": "Course of closures and scope in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariomorenodev/closures-scope-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariomorenodev/closures-scope-javascript/issues"
+  },
+  "homepage": "https://github.com/mariomorenodev/closures-scope-javascript#readme"
+}
